@@ -1,0 +1,158 @@
+.header{
+  background-color: rgb(210, 212, 66);
+  height: 40px;
+  
+}
+ul{
+list-style: none;
+  display: flex;
+  width: 1300px;
+  color: grey;
+  text-align: center;
+  padding-top: 10px;
+  
+  justify-content: center;
+  justify-content: space-between;
+
+  
+}
+button{
+    height: 25px;
+    width: 120px;
+    border-radius: 5px;
+    background-color: aqua;
+    padding-bottom: 20px;
+}
+.first{
+    background-image: url(first.bg.webp);
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+.first_sec{
+  padding-left: 100px;
+  padding-top: 40px;
+}
+#h{
+  padding: left 400px; 
+}
+.sp{
+  padding-left: 100px;
+  font-size: 40px;
+}
+
+section{
+    background-image: url(second_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    
+}
+
+.second_sec{
+  padding-left: 50px;
+  padding-right: 100px;
+  display: flex;
+  flex-direction: column;
+ border-radius: 10px;
+}
+
+.second{
+   padding-left: 20px;
+   
+}
+.subh{
+ background-color: rgb(223, 145, 20);
+ height: 40px;
+ display: flex;
+ text-align: center;
+ justify-content: space-around;
+padding-bottom: 10px;
+}
+.third{
+  background-image: url(third.bg.webp);
+  background-size: cover;
+  height: 1000px;
+  padding-top: 2px;
+  
+  justify-content: space-between;
+
+}
+.ce{
+  padding-top: 5px;
+  padding-bottom: 30px;
+}
+
+.third_sec1{
+
+display: flex;
+padding-left: 40px;
+padding-right: 40px;
+justify-content: space-between;
+}
+.third_sec1prc{
+  display: flex;
+  padding-left: 40px;
+  padding-right: 40px;
+  justify-content: space-between;
+  font-size: 18px;
+  color: rgb(2, 23, 11);
+}
+.third_sec2{
+
+  display: flex;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 20px;
+  justify-content: space-between;
+  }
+  .third_sec2prc{
+    display: flex;
+    padding-left: 40px;
+    padding-right: 40px;
+    justify-content: space-between;
+    font-size: 18px;
+    color: rgb(2, 23, 11);
+  }
+
+  .header3{
+    background-color: rgb(223, 145, 20);
+    height: 40px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+   padding-bottom: 20px;
+
+   }
+   .fourth{
+       background-image: url(third.bg.webp);
+       height: 500px;
+       background-repeat: no-repeat;
+       background-size: cover;
+   }
+   .four_sec1{
+    padding-top: 50px;
+  
+  
+    justify-content: space-between;
+   }
+   .four_sec2{
+  display: inline;
+   }
+   .six{
+    background-image: url(third.bg.webp);
+       height: 700px;
+       background-repeat: no-repeat;
+       background-size: cover;
+   }
+   .last_head{
+    background-color: rgb(223, 145, 20);
+ height: 40px;
+ display: flex;
+ text-align: center;
+ justify-content: space-around;
+padding-bottom: 20px;
+
+   }
+   center{
+    padding-top: 50px;
+   }
